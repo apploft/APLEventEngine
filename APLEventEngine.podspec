@@ -11,6 +11,7 @@ Pod::Spec.new do |s|
                    DESC
 
   s.homepage     = "https://github.com/apploft/APLEventEngine"
+  s.swift_version = '4.1'
   s.license      = { :type => "MIT", :file => "LICENSE" }
   s.author       = { "Tino Rachui" => "tino.rachui@apploft.de" }
   s.platform     = :ios, "10.0"
